@@ -8,4 +8,4 @@
 
 Demo
 ---
-![Android Course - Mid Project Demo (YouTube)](https://www.youtube.com/watch?v=HXKjAFHC6bI)
+[Android Course - Mid Project Demo (YouTube)](https://www.youtube.com/watch?v=HXKjAFHC6bI)
